@@ -1,1 +1,1 @@
-def process(): pass
+def process(data): return data
